@@ -399,7 +399,7 @@ header#myHeader {
 }
 
 .footer-wave {
-  background-image: url("/assets/footer-shape.png");
+  background-image: url("assets/footer-shape.png");
   position: absolute;
   left: 0;
   top: 0;
